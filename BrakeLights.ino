@@ -10,6 +10,8 @@
 //   offers modes for left turn, right turn, hazard, brake, police, and
 //   backup.
 //
+//   For lab use only; not for highway use.  GPL v3.0
+//
 // History:     Jul-12-2018         Davepl      Created
 //
 //---------------------------------------------------------------------------
